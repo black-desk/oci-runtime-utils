@@ -1,0 +1,3 @@
+Inspect the system environment of current namespaces. This command has some
+subcommands that only print specific information. Call without any subcommand
+specified to print all information.

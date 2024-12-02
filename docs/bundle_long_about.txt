@@ -1,0 +1,3 @@
+Generate a minimal OCI bundle directory, with an empty rootfs and a minimal
+config.json file, which bind this program into the container's PATH, and set
+process.args to `["oci-runtime-utils", "true"]`.
