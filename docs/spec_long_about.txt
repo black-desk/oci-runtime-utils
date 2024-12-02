@@ -1,0 +1,2 @@
+Generate a minimal OCI runtime config file, which bind this program into the
+container's PATH, and set process.args to `["oci-runtime-utils", "inspect"]`.

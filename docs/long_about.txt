@@ -1,0 +1,2 @@
+A simple command line tool contains some utilities for testing, benchmarking
+and analysing behaviors of OCI runtime CLI implementations.
