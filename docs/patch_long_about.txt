@@ -1,0 +1,2 @@
+Apply a json-patch to an OCI runtime config file read from input, then print
+result to output file.
